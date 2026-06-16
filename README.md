@@ -215,7 +215,7 @@ student-dropout-risk-prediction/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/student-dropout-risk-prediction.git
+git clone https://github.com/Underag3/student-dropout-risk-prediction.git
 cd student-dropout-risk-prediction
 ```
 
