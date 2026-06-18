@@ -8,6 +8,9 @@ The project uses the **Predict Students' Dropout and Academic Success** dataset 
 
 The goal is to demonstrate how artificial intelligence can support educational institutions in identifying students who may require early academic or financial intervention.
 
+To see the Streamlit Deployment:
+https://student-dropout-risk-prediction123.streamlit.app/
+
 ---
 
 ## Dataset
