@@ -253,14 +253,8 @@ Potential enhancements for future development:
 
 **Mohammad Tyas Subianto**
 
-Data Analyst | Machine Learning Enthusiast | AI & Data Science Student
-
-GitHub: https://github.com/Underag3
-
-LinkedIn: https://www.linkedin.com/in/m-tyas-subianto
-
 ---
 
 ## Acknowledgements
 
-This project uses the Predict Students' Dropout and Academic Success dataset provided by the UCI Machine Learning Repository and is intended for educational and portfolio purposes.
+This project uses the Predict Students' Dropout and Academic Success dataset provided by the UCI Machine Learning Repository.
